@@ -8,6 +8,11 @@ Delete Tasks: Remove tasks from the list by clicking the cross button next to ea
 Persistent Storage: Your tasks are saved in local storage, so your list is available even after closing or refreshing the browser.
 
 # Technologies Used:
-HTML: Structure of the app
-CSS: Styling for a user-friendly interface
-JavaScript: Core logic for adding, completing, and deleting tasks, as well as saving them to local storage
+# HTML:
+Structure of the app
+
+# CSS:
+Styling for a user-friendly interface
+
+# JavaScript:
+Core logic for adding, completing, and deleting tasks, as well as saving them to local storage
